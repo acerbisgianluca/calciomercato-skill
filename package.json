@@ -1,0 +1,21 @@
+{
+    "name": "calciomercato-skill",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "calciomercato",
+        "skill"
+    ],
+    "repository": "https://github.com/acerbisgianluca/calciomercato-skill",
+    "author": "Acerbis Gianluca",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "rss-parser": "^3.7.2",
+        "uuid": "^3.3.2"
+    }
+}
