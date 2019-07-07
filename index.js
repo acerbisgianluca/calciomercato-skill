@@ -8,6 +8,9 @@ app.get('/', async (req, res) => {
     return res.status(200).json(result);
 });
 
-//app.listen(3000, () => console.log('Server on'));
+/**
+ * For testing purpose only
+ * app.listen(3000, () => console.log('Server is on'));
+ */
 
 module.exports = app;
