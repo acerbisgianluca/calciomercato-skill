@@ -1,6 +1,5 @@
 const ParserPackage = require('rss-parser');
 const parser = new ParserPackage();
-const uuid = require('uuid/v1');
 
 const FEED_URL = 'https://www.gazzetta.it/rss/calciomercato.xml';
 const DOMAIN = 'https://www.gazzetta.it';
@@ -13,7 +12,7 @@ exports.getItemsFromFeed = async () => {
 exports.buildResponse = (items) => {
     const result = items.map((item) => {
         const newItem = {
-            uid: uuid(),
+            uid: item.guid,
             updateDate: item.isoDate,
             titleText: item.title.trim(),
             mainText: item.contentSnippet.replace('\n', '. '),
