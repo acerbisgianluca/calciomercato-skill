@@ -1,16 +1,18 @@
 {
-    "name": "calciomercato-skill",
-    "version": "1.0.0",
-    "description": "",
+    "name": "sport-news-skill",
+    "version": "2.0.0",
+    "description": "Ascolta le ultime notizie dal mondo dello sport con Alexa.",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "cd src && node index.js"
     },
     "keywords": [
-        "calciomercato",
+        "sport",
+        "news",
         "skill"
     ],
-    "repository": "https://github.com/acerbisgianluca/calciomercato-skill",
+    "repository": "https://github.com/acerbisgianluca/sport-news-skill",
     "author": "Acerbis Gianluca",
     "license": "MIT",
     "dependencies": {
