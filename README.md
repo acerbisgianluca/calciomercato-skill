@@ -1,8 +1,17 @@
-# Calciomercato-skill
+# Sport News Skill
 
-Calciomercato News ti permette di aggiungere al tuo sommario quotidiano di Alexa
-le ultimissime notizie di calciomercato.
+## Feed disponibili
 
-Attualmente è presente un unico feed che contiene le ultime 5 notizie aggiornate
-quasi in tempo reale! Abilitando la skill, essa verrà automaticamente aggiunta
-alle tue fonti di notizie.
+- Calcio
+- Formula 1
+- Moto GP
+- Ciclismo
+- Basket
+- Tennis
+- Pallavolo
+- Rugby
+- Nuoto
+- Golf
+
+**Abilitando la skill, essa verrà automaticamente aggiunta alle tue fonti di
+notizie.**
