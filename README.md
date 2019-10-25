@@ -13,5 +13,6 @@
 - Nuoto
 - Golf
 
-**Abilitando la skill, essa verrà automaticamente aggiunta alle tue fonti di
-notizie.**
+**Abilitando la skill, dovrai andare nelle impostazioni del tuo account per selezionare gli sport preferiti.**
+
+Link: [Amazon Store](https://www.amazon.it/Acerbis-Gianluca-Sport-News/dp/B07V2XPJXH)
